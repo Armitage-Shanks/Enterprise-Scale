@@ -63,6 +63,13 @@
             "Name": "5da30adb-45a3-44ee-9a3e-03153d6b8ed1",
             "DisplayName": "kn-sandbox01",
             "Children": null
+          },
+          {
+            "Type": "/subscriptions",
+            "Id": "/subscriptions/bf9dbd10-ea22-427c-9bd8-68c7b61647cf",
+            "Name": "bf9dbd10-ea22-427c-9bd8-68c7b61647cf",
+            "DisplayName": "computetest",
+            "Children": null
           }
         ]
       }
